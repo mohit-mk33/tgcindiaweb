@@ -103,6 +103,15 @@
      margin: auto;
      margin-top: 0px;
     }
+    #unique1{
+      height: 210px;
+
+    }
+    #unique2{
+      margin-left: 48px;
+      
+     
+    }
   }
   @media all and (max-width: 572px){
     .container-again{
@@ -120,7 +129,9 @@
 
     }
     #unique2{
-      margin-left: 25px;
+      margin-left: 75px;
+
+    display: block;
       
      
     }
