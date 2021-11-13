@@ -364,7 +364,7 @@
             justify-content: center;
         }
         .header-img-section{
-            margin-bottom: 40px;
+            margin-bottom: 91px;
         }
     }
     @media screen and (max-width: 767.98px){
@@ -372,6 +372,10 @@
             width: 200%;
             padding-top: 200%;
             left: -110%;
+        }
+        .header-bg-section::before{
+            left: 140px;
+            bottom: -75px;
         }
     }
     @media screen and (max-width: 575.98px){
@@ -906,7 +910,7 @@
     }
     @media screen and (max-width: 1199.98px){
         .perfection-section{
-            margin-bottom: 150px!important;
+            margin-bottom: 0px!important;
         }
     }
     @media screen and (max-width: 991.98px){
