@@ -484,7 +484,7 @@
     }
 /* 5. FEATURES SECTION */
     .features-section{
-        padding: 100px 0;
+        padding: 38px 0;
     }
     .features-container{
         display: flex;
@@ -1419,8 +1419,16 @@
     font-weight: bold;
     color: #fff;
 }
+#unique2{
+    margin-left: 90px;
+}
 
 #unique1{
-   margin-top: 31px;
+   margin-top: 13px;
+}
+@media screen and max-width(572px){
+#unique2{
+   margin-left: 10px;
+}
 }
 

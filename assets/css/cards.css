@@ -74,7 +74,7 @@
   }
 
   #cards-sop{
-    padding: 100px 0;
+    padding: 29px 0;
   }
 
   
@@ -106,12 +106,22 @@
   }
   @media all and (max-width: 572px){
     .container-again{
+      margin-top: 11px;
       height: 200px;
       font-size: 30px;
     }
     .container-again1{
       width: 200px;
      margin: auto;
+     
+    }
+    #unique1{
+      height: 210px;
+
+    }
+    #unique2{
+      margin-left: 25px;
+      
      
     }
 
@@ -133,3 +143,6 @@
     transition: 0.4s;
   }
   */
+
+
+  Join Web Design & Development Classes Today. Apply now
