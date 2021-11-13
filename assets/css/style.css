@@ -1314,7 +1314,7 @@
         
         #number h2, #number h2 a{
             font-size: 12px;
-            color: #000 !important;
+            /*color: #000 !important;*/
         }
         .header-scrolled{
             padding-top: 0;
