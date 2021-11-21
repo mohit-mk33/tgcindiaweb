@@ -399,6 +399,9 @@
         .header_hidden_pc{
             display: none;
         }
+        .web2header{
+            margin-top: -60px;
+        }
     }
     @media screen and (max-width: 575.98px){
         .header-title{
@@ -435,6 +438,17 @@
         }
         .web1header{
             margin-bottom: -60px;
+        }
+        .web2header{
+            margin-top: -60px;
+        }
+        .web2subtitle{
+            font-size: 15px;
+            font-weight: 500;
+            margin-top: -30px;
+        }
+        .web2list{
+            padding-left:20px ;
         }
 
 
@@ -1329,6 +1343,9 @@
         .title{
             font-size: 36px;
             margin-top: 3px;
+        }
+        .web2header{
+            margin-top: -60px;
         }
         .highlights{
             padding: 50px 0;
