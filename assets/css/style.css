@@ -57,6 +57,9 @@
 		margin-bottom: 5px;
         opacity: 0.5;
     }
+    .registernow{
+        margin-bottom: 85px;
+    }
     .title{
         font-size: 45px;
         font-weight: 700;
@@ -402,6 +405,9 @@
         .web2header{
             margin-top: -60px;
         }
+         .scopetitle{
+            font-size: 30px;
+        }
     }
     @media screen and (max-width: 575.98px){
         .header-title{
@@ -450,7 +456,19 @@
         .web2list{
             padding-left:20px ;
         }
-
+        .scopetitle{
+            font-size: 30px;
+        }
+        .scopesubtitle{
+            font-size: 15px;
+            margin-bottom: 0px;
+        }
+        .frontd{
+            padding: 0px 10px 1px 10px;
+        }
+        .scopecontainer{
+            margin-bottom: -100px;
+        }
 
     }
 /* 4. HIGHLIGHTS SECTION */ 
@@ -1113,7 +1131,7 @@
         justify-content: center;
         align-items: flex-start;
         flex-direction: row;
-        margin-top: 40px;
+        margin-top: -60px;
     }
     .contact-us-content-container img.send-success{
         display: block;
@@ -1418,6 +1436,9 @@
          .blog-title-section h2,.section-heading h2,.card-title{
              font-size: 34px;
          }
+         .scopetitle{
+            font-size: 30px;
+         }
          .show_mobile{
             display:block !important;
             color: #ffffff;
@@ -1522,3 +1543,9 @@
 }
 }
 
+    @media screen and (max-width: 575.98px){
+        .frontd{
+            padding: 0px 10px 5px 10px;
+            margin-bottom: 5px;
+        }
+}
