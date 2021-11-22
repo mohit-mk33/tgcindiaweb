@@ -1537,6 +1537,11 @@
 #unique1{
    margin-top: 13px;
 }
+
+ #newbie, #Earlycareer, #experienced, #proffes {
+            font-size: 24px ;
+            font-weight: bold;
+        }
 @media screen and max-width(572px){
 #unique2{
    margin-left: 10px;
@@ -1568,9 +1573,27 @@
             font-size: 22px ;
             font-weight: bold;
         }
-    }
-
-     #newbie, #Earlycareer, #experienced, #proffes {
-            font-size: 24px ;
-            font-weight: bold;
+        .factorsection{
+            padding-top: 0px;
         }
+        .factorstitle{
+            font-size: 30px;
+            margin-top: 5px;
+            margin-bottom: 11px;
+        }
+        .factorssubtitle{
+            font-size: 15px;
+            margin-bottom: 5px;
+            margin-left: -16px;
+        }
+        .factors2section{
+            margin-left: -30px;
+        }
+
+    }
+     
+     
+
+
+
+    
