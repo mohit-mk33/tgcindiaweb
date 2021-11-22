@@ -1563,4 +1563,14 @@
             font-size: 15px;
             margin-bottom: 0px;
         }
+
+        #newbie, #Earlycareer, #experienced, #proffes {
+            font-size: 22px ;
+            font-weight: bold;
+        }
     }
+
+     #newbie, #Earlycareer, #experienced, #proffes {
+            font-size: 24px ;
+            font-weight: bold;
+        }
