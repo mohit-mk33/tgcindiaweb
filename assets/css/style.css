@@ -1548,4 +1548,19 @@
             padding: 0px 10px 5px 10px;
             margin-bottom: 5px;
         }
-}
+        .uiuxd{
+            padding: 25px 20px 5px 20px;
+        }
+        .websd{
+          padding: 5px 20px 5px 20px;
+
+        }
+        .web3title{
+            font-size: 25px;
+        }
+
+        .web3subtitle{
+            font-size: 15px;
+            margin-bottom: 0px;
+        }
+    }
